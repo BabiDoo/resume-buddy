@@ -1,0 +1,1062 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Using Spacing to Enhance Diverse Forms of Learning: Review of Recent Research and Implications for Instruction
+
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+Carpenter, S. K, Cepeda, N. J., Rohrer, D., Kang, S. H. K., & Pashler, H. (2012). Using spacing to enhance diverse 
+forms of learning: Review of recent research and implications for instruction. Educational Psychology Review, 24, 
+369-378. 
+
+ 
+ 
+ 
+
+Using Spacing to Enhance Diverse Forms of Learning: 
+Review of Recent Research and Implications for Instruction 
+
+ 
+ 
+
+Shana K. Carpenter   
+Nicholas J. Cepeda  
+
+Doug Rohrer  
+Sean H. K. Kang  
+
+Harold Pashler 
+ 
+
+ 
+Abstract 
+ 
+Every day students and instructors are faced with the decision of when to study information. The timing of study, and how 
+it affects memory retention, has been explored for many years in research on human learning. This research has shown 
+that performance on final tests of learning is improved if multiple study sessions are separated—i.e., “spaced” apart—in 
+time rather than massed in immediate succession. In this article, we review research findings of the types of learning that 
+benefit from spaced study, demonstrations of these benefits in educational settings, and recent research on the time 
+intervals during which spaced study should occur in order to maximize memory retention. We conclude with a list of 
+recommendations on how spacing might be incorporated into everyday instruction.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Author Note 
+ 
+Shana K. Carpenter, Department of Psychology, Iowa State University; Nicholas J. Cepeda, Department of Psychology 
+and LaMarsh Centre for Child and Youth Research, York University; Doug Rohrer, Department of Psychology, University 
+of South Florida; Sean H. K. Kang, Department of Education, Dartmouth College; Harold Pashler, Department of 
+Psychology, University of California, San Diego. Correspondence concerning this article should be addressed to Shana K. 
+Carpenter, Department of Psychology, W112 Lagomarcino Hall, Iowa State University, Ames, IA 50011. Phone: (515) 
+294-6385, Fax: (515) 294-6424; E-mail: shacarp@iastate.edu. This work was supported by a collaborative activity award 
+from the James S. McDonnell Foundation, by the Office of Naval Research (Grant N00014-10-1-0072), by the Institute of 
+Education Sciences (US Department of Education, Grant R305B070537 to H. Pashler, and Grant R305A110517 to D. 
+Rohrer), and by the National Science Foundation (Center Grant SBE-0542013).  
+  
+  
+
+mailto:shacarp@iastate.edu�
+
+
+Using Spacing     2 
+ 
+
+ 
+
+  
+One fundamental decision that students and 
+
+instructors must make is when to study information. If an 
+exam is coming up next week, should students begin to 
+review their notes today, or wait a few more days? Once 
+instructors have presented information, how long should 
+they wait before they review this information in order to 
+increase the chances that students will retain it over 
+summer break? Given that the intended outcome of such 
+decisions is to promote durable learning, understanding 
+how the scheduling of study influences memory retention 
+is critically important.  
+
+ 
+The benefits of spaced study  
+
+Studying information across two or more sessions 
+that are separated (i.e., spaced apart or distributed) in 
+time often produces better learning than spending the 
+same amount of time studying the material in a single 
+session. Figure 1 illustrates the design of a typical study 
+on this topic. This design includes: (1) multiple study 
+sessions in which the same information (e.g., biology 
+terms) is presented at least twice, (2) a manipulation of 
+the time duration between successive presentations, 
+which is referred to here as the spacing gap, and (3) a 
+test delay that is defined as the time elapsed between 
+the final study presentation and the test. The test delay 
+can either be fixed or manipulated.  
+
+When the spacing gap between two or more 
+presentations of the same item is zero (e.g., the same 
+biology term and definition is presented back-to-back 
+with no interruptions in-between), the presentations are 
+said to be massed together. When the gap between 
+presentations is greater than zero (e.g., a given biology 
+term is repeated every five minutes, or after five different 
+biology terms have been presented), then the 
+presentations are said to be spaced or distributed 
+because they are separated by a nonzero time interval. 
+The gap separating spaced presentations can range 
+anywhere from a few seconds to several weeks, 
+whereas the gap separating massed presentations is 
+zero.  
+
+On the final memory test, performance is most often 
+better for items that were spaced rather than massed. 
+This is typically referred to as the spacing effect. Some 
+studies have also reported that different spacing gaps 
+(i.e., lags) result in different degrees of learning, which 
+has sometimes been referred to as the lag effect. For 
+example, learning of a given biology term might be better 
+when it is repeated after a relatively long spacing gap 
+(e.g., five minutes) compared to a relatively short 
+spacing gap (e.g., one minute). In the current paper, we 
+
+use the term spacing effect in a general sense to refer to 
+the different degrees of learning that result as a function 
+of different spacing gaps.     
+
+The spacing effect is one of the oldest and most 
+reliable findings in research on human learning. Early 
+demonstrations of this effect date back to over 100 years 
+ago (e.g., see Ebbinghaus, 1885/1913), and hundreds of 
+published studies have reported benefits of spacing (for 
+a recent review, see Cepeda, Pashler, Vul, Wixted, & 
+Rohrer, 2006). While participants in most of these 
+studies were adult learners, the benefits of spacing have 
+also been reliably demonstrated in studies with younger 
+participants, including elementary school children (e.g., 
+Toppino & DiGeorge, 1984), middle school children 
+(e.g., Carpenter, Pashler, & Cepeda, 2009; Toppino & 
+DeMesquita, 1984), and preschool children as young as 
+three or four years of age (e.g., Rea & Modigliani, 1987; 
+Toppino, 1991).  
+
+The vast majority of studies on the spacing effect 
+has been conducted in the laboratory, and these studies 
+typically require participants to learn relatively simple 
+types of verbal information such as word lists or trivia 
+facts. Recently, however, new findings have emerged 
+showing that spacing can also improve learning of 
+information that is conceptually more difficult. For 
+example, Bird (2010) found that longer spacing gaps 
+improved English-learning adults’ understanding of 
+subtle grammatical rules. Participants saw sentences 
+such as “Albert Einstein has been a great 
+mathematician,” and their task was to provide the 
+corrected version, “Albert Einstein was a great 
+mathematician.” Two practice sessions were separated 
+by either three or 14 days, and the 14-day spacing gap 
+produced superior scores to the three-day gap on tests 
+given either seven or 60 days later. Spacing has also 
+been shown to improve learning in other tasks that might 
+be considered complex forms of learning, such as 
+spelling (Fishman, Keller, & Atkinson, 1968), reading 
+skills (e.g., Seabrook, Brown, & Solity, 2005), and 
+biology (Reynolds & Glaser, 1964). 
+
+Spacing effects were found in two recent 
+experiments in which college students learned a 
+moderately abstract mathematics task (Rohrer & Taylor, 
+2006, 2007). The task required students to find the 
+number of permutations of a sequence of items with at 
+least one repeated item. For instance, the sequence 
+abbccc has 60 permutations, including abaccc and 
+abcbcc. In both studies, spacing boosted scores on a 
+final test consisting of novel problems of the same kind. 
+Figure 2 shows the results of one of these studies.  
+
+
+
+Using Spacing     3 
+ 
+
+ 
+
+Benefits of spacing have also been reported for 
+tasks involving coordinated motor skills. For instance, in 
+a study reported by Moulton et al. (2006), surgical 
+residents practiced microsurgical skills in four training 
+sessions that were squeezed into the same day or 
+distributed across four weeks. On a final test given one 
+month after the last practice session, a spacing effect 
+was found.    
+
+Recent studies have shown that spacing can 
+benefit learning in realistic educational contexts as well. 
+In one study, Sobel, Cepeda, and Kapler (2011) 
+investigated fifth-graders’ retention for the definitions of 
+uncommon English words of the type that appear on the 
+Graduate Record Examination (GRE) (e.g., abscond: to 
+leave secretly and hide, often to avoid the law). These 
+words were learned in class via a teacher-led tutorial 
+that included slides, oral practice, and paper-and-pencil 
+tests. Either immediately or one week after the first 
+tutorial, students completed the same tutorial a second 
+time, and were then given a final vocabulary test that 
+required them to supply the definition for each word five 
+weeks after completing the second tutorial. Memory on 
+the five-week delayed test was superior for definitions 
+learned with the seven-day spacing gap (20.8%) 
+compared to the zero-day spacing gap (7.5%). This 
+amount of forgetting might appear substantial, but 
+previous research on forgetting of classroom material 
+has demonstrated a similar level of forgetting over a 
+similar time period (Jones, 1923; Tiedeman, 1948).  
+
+ In a second study, Carpenter et al. (2009) 
+explored how the timing of a review session affected 
+retention of U. S. history facts that were learned by 
+eighth grade students. After completing their course in 
+U. S. history, students completed a review activity that 
+involved answering several questions from the most 
+recent unit that they studied (e.g., Who assassinated 
+president Abraham Lincoln?). For each question, 
+students were asked to write an answer (e.g., John 
+Wilkes Booth), and then were given a sheet of answers 
+to check their accuracy. One group of students 
+completed the review one week after finishing the course 
+(i.e., the Immediate Review Group), and another group 
+completed the same review 16 weeks later, after 
+returning from summer vacation (i.e., the Delayed 
+Review Group). Students were tested over the 
+information again nine months after completing the 
+review. After such a substantial delay, it is not surprising 
+that students forgot the majority of answers to these 
+questions. The key finding, however, was that long-term 
+retention was better for students who completed the 
+
+delayed review than for those who completed the 
+immediate review (12.2% vs. 8%, respectively).  
+
+  Another demonstration of the benefits of 
+spacing in the classroom was reported by Seabrook et 
+al. (2005), who assessed first graders’ acquisition of 
+reading skills. In their regular classrooms, all students 
+received six minutes of instruction per day for two 
+weeks. One group of students received this instruction 
+within a single session lasting six minutes, while a 
+second group received it across three separate two-
+minute sessions that were administered at unspecified 
+time intervals. A comparison of pretest and posttest 
+scores revealed that the group experiencing the spaced 
+two-minute sessions showed greater improvement in 
+reading skills (an increase of 8.3 points), compared to 
+the group experiencing the continuous six-minute 
+session (an increase of only 1.3 points).  
+
+ 
+How long should the spacing gap be? 
+
+To use spacing as effectively as possible, it is 
+important to know just how far apart the study sessions 
+should be spaced. For instance, if medical professionals 
+wish to maintain good retention of emergency response 
+skills over a two-year period, is there an optimal time 
+during which they should review these skills?  When 
+learners must retain information over a given test delay, 
+an important practical question to address is when 
+repeated study of this information should take place.  
+
+If spacing benefits learning, then a reasonable 
+assumption might be that longer spacing gaps would 
+benefit learning to an even greater degree. Indeed, 
+some studies examining the effects of longer vs. shorter 
+spacing gaps have typically found that longer spacing 
+gaps are more beneficial for retention (e.g., Glenberg, 
+1976; Hintzman, 1969, 1974; Melton, 1970). For 
+example, Kahana and Howard (2005) found that 
+retention of words was best when the words were 
+repeated three times with six to 20 other words occurring 
+between each of the three presentations, compared with 
+only two to six other words occurring between each of 
+the three presentations.   
+
+Studies by Bahrick and colleagues examining long-
+term retention appear to confirm the idea that longer 
+spacing gaps produce better memory retention than 
+shorter spacing gaps. In a study by Bahrick (1979), 
+participants learned the English translations for several 
+Spanish words by completing six learning sessions that 
+were separated by a spacing gap of either zero days 
+(i.e., all sessions occurred on the same day), one day, or 
+30 days. All participants were given a final test one 
+month after the last learning session. Performance on 
+
+
+
+Using Spacing     4 
+ 
+
+ 
+
+this test was best for the participants who learned the 
+words with the 30-day spacing gap. A follow-up study 
+revealed that retention of these words after eight years 
+was still superior for the participants who experienced 
+the 30-day spacing gap relative to the zero- or one-day 
+spacing gap (Bahrick & Phelps, 1987).  
+
+ However, reviews of the literature on spacing have 
+revealed that an increase in the duration of the spacing 
+gap does not always produce superior memory retention 
+(e.g., Cepeda et al., 2009; Cepeda et al., 2006; Donovan 
+& Radosevich, 1999; Glenberg, 1976; Verkoeijen, 
+Rikers, & Özsoy, 2008). One potential danger of waiting 
+too long before reviewing information is that students 
+may forget much of what they have learned previously, 
+and this forgetting may offset any benefits that would 
+have occurred due to spacing. This suggests that there 
+may be diminishing returns to increasing the spacing 
+gap.  
+
+What might the optimal spacing gap be? Answering 
+this question requires a thorough comparison of the 
+effects of different spacing gaps across a wide range of 
+time intervals. In what was probably the most 
+comprehensive study ever to explore this, Cepeda et al. 
+(2008) gave adult learners a flashcard-like web tutorial in 
+which they learned a set of obscure facts (e.g., Libya’s 
+flag consists of a single solid color). During the first 
+learning session, participants learned 32 of these facts 
+until they could recall each of them successfully. Then, 
+each participant completed a second learning session in 
+which they were quizzed over each fact (e.g., what 
+country’s flag consists of a single solid color?), and then 
+shown the answer (e.g., Libya). Finally, each participant 
+was given a final test over each fact in which they were 
+shown this question again and asked to recall the 
+answer. The spacing gap between the two learning 
+sessions ranged across a half dozen values between 
+zero and 105 days. For example, some participants 
+completed the two learning sessions with a two-day 
+spacing gap, others with a seven-day gap, and others 
+with a 21-day gap. Following the second learning 
+session, each participant completed the final test after a 
+test delay of seven days, 35 days, 70 days, or 350 days. 
+Each participant was randomly assigned to one of 26 
+unique combinations of spacing gap and test delay.   
+
+Figure 3 shows the proportion of facts correctly 
+recalled on the final test as a function of spacing gap 
+and test delay. The key finding from this study is that the 
+optimal spacing gap depends on when the information 
+will be tested in the future. For participants who 
+completed the final test seven days after their final study 
+session, the optimal spacing gap was one day. However, 
+
+for participants who waited 35 days before taking the 
+final test, the optimal spacing gap was 11 days. For 
+those who completed the final test after 70 days, the 
+best spacing gap was 21 days.  In general, the optimal 
+spacing gap equaled 10% - 20% of the test delay. In 
+other words, the longer the test delay, the longer the 
+optimal spacing gap.  
+
+This study demonstrates that there is no “one-size-
+fits-all” approach to using spacing as a means of 
+improving memory retention. Quite simply, a longer 
+spacing gap is not always better. Instead, these findings 
+suggest that in order to pick the optimal timing of study 
+sessions, students and instructors must decide when 
+they expect to need the information. If the goal is to 
+retain information for just a short time, shorter spacing 
+gaps may be ideal. However, if the goal is to achieve 
+retention for much longer periods, spacing gaps of 
+several weeks or months may be best. Indeed, for 
+lifelong preservation of knowledge, spacing gaps of 
+years may well be optimal. 
+
+While the study by Cepeda et al. (2008) sought to 
+determine the optimal duration of a spacing gap when 
+learning is limited to only two sessions, numerous 
+studies have addressed a related question: if learners 
+encounter information in three or more sessions, should 
+the spacing gaps be equal? Studies that have explored 
+the effects of different spacing gaps with three or more 
+learning sessions have typically compared two 
+schedules of spacing: (1) a fixed schedule, in which all 
+spacing gaps are identical (e.g., information is studied 
+four times, with a 24-hour spacing gap separating each 
+study session), or (2) an expanding schedule, in which 
+the spacing gap becomes progressively longer (e.g., 
+information is studied once, then again after 30 minutes, 
+then a third time after 24 hours, and a fourth time after 
+one week).  
+
+Experiments comparing fixed and expanding 
+schedules have produced equivocal results. Some 
+studies have found that expanding schedules produce 
+better learning than fixed schedules (e.g., Cull, 
+Shaughnessy, & Zechmeister, 1996; Landauer & Bjork, 
+1978), and others have found that expanding and fixed 
+schedules produce similar levels of learning (e.g., 
+Carpenter & DeLosh, 2005; Cull, 2000; Logan & Balota, 
+2008; Pyc & Rawson, 2007; for a critical review of this 
+literature, see Balota, Duchek, & Logan, 2007).  
+
+Recent evidence suggests that expanding 
+schedules might be better for short-term retention, and 
+fixed schedules might be better for longer-term retention 
+(Karpicke & Roediger, 2007). A comprehensive 
+comparison of various spacing gaps and test delays 
+
+
+
+Using Spacing     5 
+ 
+
+ 
+
+involving three or more learning sessions has yet to be 
+carried out, and until then it remains an open question 
+whether the optimal spacing gaps for three or more 
+learning sessions are critically dependent upon when the 
+final test takes place.  
+
+One finding appears to be reliable, however. Any 
+form of spacing—whether it is fixed or expanding—
+appears to promote learning. In studies comparing either 
+a fixed or expanding schedule to a massed schedule in 
+which three or more presentations of an item occur 
+back-to-back in immediate succession, it has been 
+consistently demonstrated that either type of spacing 
+schedule produces better learning than a massed 
+schedule (e.g., Carpenter & DeLosh, 2005; Cull, 2000; 
+Rea & Modigliani, 1985).  
+
+Thus, when faced with the practical question of 
+when to review information, the present findings suggest 
+that students and teachers do not need to be overly 
+concerned about whether the spacing gaps that 
+separate repeated study sessions are  equal or not. The 
+key criterion is that information should be reviewed after 
+a period of time has passed since the initial learning. 
+Particularly if the goal is long-term retention, the findings 
+from Cepeda et al. (2008) suggest that the ideal time to 
+review information may be several weeks or months 
+after it was initially learned.  
+
+ 
+Pedagogical recommendations and responses to 
+potential challenges 
+
+Many researchers have urged teachers and 
+curriculum designers to use spacing as an instructional 
+strategy (e.g., Bahrick, 1979; Bjork, 1979; Dempster, 
+1987, 1988, 1989; Halpern, 2008; Metcalfe, Kornell, & 
+Son, 2007; Pashler, Rohrer, Cepeda, & Carpenter, 2007; 
+Willingham, 2002). Unfortunately, however, spacing has 
+yet to be systematically implemented in educational 
+curricula (e.g., Cepeda, Vul, Rohrer, Wixted, & Pashler, 
+2008; Dempster, 1988; Rohrer & Pashler, 2010). One 
+reason for this could be that research on spacing has not 
+produced a clear set of recommendations for how it can 
+be used in everyday instruction. In this section, we 
+describe some specific strategies that can be used by 
+students and educators to capitalize on the advantages 
+of spacing.  
+
+The literature reviewed here suggests that in order 
+to promote long-term retention of knowledge, students 
+should receive spaced re-exposure to previously-learned 
+information. Particularly if the goal is long-term retention, 
+it may be beneficial to review this information after a time 
+period of at least several weeks (e.g., Cepeda et al., 
+2008). This review can take place in a number of ways. 
+
+First, instructors might incorporate into each lesson a 
+brief review of concepts that were learned several weeks 
+earlier.  
+
+Second, homework assignments could be used to 
+re-expose students to important information that they 
+have learned previously. This recommendation may be 
+particularly useful when class time is limited and a 
+review is difficult to fit in to the lesson on any given day. 
+For example, an instructor could intentionally include 
+questions covering information that was learned in class 
+several weeks earlier.   
+
+Third, instructors could give exams and quizzes that 
+are cumulative. In addition to re-exposing students to 
+information that they have previously learned, 
+cumulative exams and quizzes provide students with a 
+good reason to review information on their own. These 
+three recommendations are not mutually exclusive, and 
+like any guidelines, they are more likely to produce 
+positive learning outcomes when used in conjunction 
+with one another (for more on pedagogical 
+recommendations involving spacing, see Pashler et al., 
+2007).   
+
+ These recommendations may sometimes be 
+difficult to carry out. First, students often seem to be less 
+than enthusiastic about cumulative exams. When the 
+exam is cumulative, students may feel that there is more 
+information that they must study. However, if students 
+are provided with regular reviews of previously-learned 
+information, this information is more likely to remain 
+accessible in memory, reducing the need for them to re-
+study old information that has already been forgotten. 
+
+Second, instructors may be discouraged to find that 
+after several weeks, students have forgotten much of the 
+information that they had previously known. It is 
+commonly the case that students forget a good deal of 
+what they have learned, especially after lengthy time 
+periods (e.g., Carpenter, Pashler, Wixted, & Vul, 2008; 
+Dillon, 2008). Importantly, however, this is not an 
+indication that the instruction was wholly futile. On the 
+contrary, when students are re-exposed to information 
+that they have learned but temporarily cannot recall, they 
+acquire this information much faster than information 
+that is being learned for the first time (e.g., Berger, Hall, 
+& Bahrick, 1999; Ebbinghaus, 1885/1913; Nelson, 
+1985). Thus, although forgetting is likely to be a 
+necessary consequence of reviewing information after 
+long spacing gaps, re-exposing students to this 
+information on a regular basis will keep it accessible in 
+memory and render it less vulnerable to forgetting over 
+time.  
+
+
+
+Using Spacing     6 
+ 
+
+ 
+
+A final challenge that instructors might encounter in 
+implementing spacing into learning curricula is the fact 
+that educational materials appear to discourage this 
+approach. In particular, many textbooks present 
+information in a non-distributed fashion. For instance, 
+although spacing has been known to improve foreign 
+language learning (e.g., Bahrick, Bahrick, Bahrick, & 
+Bahrick, 1993; Bahrick & Phelps, 1987; Bird, 2010; 
+Bloom & Shuell, 1981), in most foreign language 
+textbooks, the vocabulary of each chapter is devoted to 
+a particular topic (e.g., food, clothing), and these words 
+rarely appear in subsequent chapters. Likewise, in most 
+mathematics textbooks, each set of problems is devoted 
+to the most recent lesson. After learning about ratios, for 
+example, students will work one or two dozen ratio 
+problems.  
+
+Because textbooks do not typically provide spaced 
+exposure to concepts, in order to ensure that students 
+receive this, instructors may find it necessary to 
+supplement the information from any given lesson with 
+examples from previous lessons. For example, in one 
+rarely-used approach to mathematics learning, each 
+lesson is followed by an interleaved set of examples 
+from many different lessons. Interleaving inherently 
+provides spaced practice, and, no less importantly, it 
+also provides students with an opportunity to choose the 
+appropriate strategy for a given kind of problem, which 
+students need not do when every problem concerns the 
+same procedure or concept (e.g., Rohrer, 2009; Taylor & 
+Rohrer, 2010).  
+
+In this review we have highlighted some key 
+findings concerning the types of learning that benefit 
+from spacing, demonstrations of spacing effects in 
+educational settings, and explorations of the ideal 
+spacing gap. We have also attempted to shed some light 
+on how the benefits of spaced practice might be 
+implemented in everyday instruction. We hope that this 
+information can be of value to students and educators 
+who are seeking ways of using spacing to maximize 
+learning.    
+
+ 
+References 
+
+Bahrick, H. P. (1979). Maintenance of knowledge: 
+Questions about memory we forget to ask. Journal of 
+Experimental Psychology: General, 108, 296-308. 
+
+Bahrick, H. P., Bahrick, L. E., Bahrick, A. S., & Bahrick, 
+P. E. (1993). Maintenance of foreign language 
+vocabulary and the spacing effect. Psychological 
+Science, 4, 316–321.  
+
+Bahrick, H. P., & Phelps, E. (1987). Retention of Spanish 
+vocabulary over eight years. Journal of Experimental 
+
+Psychology: Learning, Memory, and Cognition, 13, 
+344-349. 
+
+Balota, D. A., Duchek, J. M., & Logan, J. M. (2007). Is 
+expanded retrieval practice a superior form of spaced 
+retrieval? A critical review of the extent literature. In J. 
+S. Nairne (Ed.), The foundations of remembering: 
+Essays in honor of Henry L. Roediger III (pp. 83-105). 
+London: Psychology Press.  
+
+Berger, S. A., Hall, L. K., & Bahrick, H. P. (2008). 
+Stabilizing access to marginal and submarginal 
+knowledge. Journal of Experimental Psychology: 
+Applied, 5, 438-447. 
+
+Bird, S. (2010). Effects of distributed practice on the 
+acquisition of second language English syntax. 
+Applied Psycholinguistics, 31, 635–650. 
+
+Bjork, R. A. (1979). Information-processing analysis of 
+college teaching. Educational Psychologist, 14, 15-
+23. 
+
+Bloom, K. C, & Shuell, T. J. (1981). Effects of massed 
+and distributed practice on the learning and retention 
+of second-language vocabulary. Journal of 
+Educational Research, 74, 245-248.  
+
+Carpenter, S. K., & DeLosh, E. L. (2005). Application of 
+the testing and spacing effects to name-learning. 
+Applied Cognitive Psychology, 19, 619-636. 
+
+Carpenter, S. K., Pashler, H., & Cepeda, N. J. (2009). 
+Using tests to enhance 8th grade students’ retention 
+of U. S. history facts. Applied Cognitive Psychology, 
+23, 760-771. 
+
+Carpenter, S. K., Pashler, H., Wixted, J. T., & Vul, E. 
+(2008). The effects of tests on learning and 
+forgetting. Memory & Cognition, 36, 438-448. 
+
+Cepeda, N. J., Coburn, N., Rohrer, D., Wixted, J. T., 
+Mozer, M. C., & Pashler, H. (2009). Optimizing 
+distributed practice. Experimental Psychology, 56, 
+236-246. 
+
+Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & 
+Rohrer, D. (2006). Distributed practice in verbal recall 
+tasks: A review and quantitative synthesis. 
+Psychological Bulletin, 132, 354-380. 
+
+Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & 
+Pashler, H. (2008). Spacing effects in learning. 
+Psychological Science, 19, 1095-1102. 
+
+Cull, W. L. (2000). Untangling the benefits of multiple 
+study opportunities and repeated testing for cued 
+recall. Applied Cognitive Psychology, 14, 215-235. 
+
+Cull, W. L., Shaughnessy, J. J., & Zechmeister, E. B. 
+(1996). Expanding the understanding of the 
+expanding-pattern-of-retrieval mnemonic: Toward 
+confidence in applicability. Journal of Experimental 
+Psychology: Applied, 2, 365-378. 
+
+
+
+Using Spacing     7 
+ 
+
+ 
+
+Dempster, F. N. (1987). Time and the production of 
+classroom learning: Discerning implications from 
+basic research. Educational Psychologist, 22, 1-21. 
+
+Dempster, F. N. (1988). The spacing effect:  A case 
+study in the failure to apply the results of 
+psychological research. American Psychologist, 43, 
+627-634. 
+
+Dempster, F. N. (1989). Spacing effects and their 
+implications for theory and practice. Educational 
+Psychology Review, 1, 309-330. 
+
+Dillon, S. (February, 2008). Survey finds teenagers 
+ignorant on basic history and literature questions. 
+The New York Times, A16. 
+
+Donovan, J. J., & Radosevich, D. J. (1999). A meta-
+analytic review of the distribution of practice effect: 
+Now you see it, now you don't.  Journal of Applied 
+Psychology, 84, 795-805. 
+
+Ebbinghaus, H. (1885/1913). Memory. (H. A. Ruger & C. 
+E. Bussenius, Transl.). New York: Teachers College, 
+Columbia University. 
+
+Fishman, E. J., Keller, L., & Atkinson, R. C. (1968). 
+Massed versus distributed practice in computerized 
+spelling.  Journal of Educational Psychology, 59, 290-
+296. 
+
+Glenberg, A. M. (1976). Monotonic and nonmonotonic 
+lag effects in paired-associate and recognition 
+memory paradigms. Journal of Verbal Learning and 
+Verbal Behavior, 15, 1-16. 
+
+Halpern, D. F. (2008, March). 25 learning principles to 
+guide pedagogy and the design of learning 
+environments. Paper distributed at the keynote 
+address at the Bowling Green State University 
+Teaching and Learning Fair. Bowling Green, OH.  
+
+Hintzman, D. L. (1969). Recognition time: Effects of 
+recency, frequency, and the spacing of repetitions. 
+Journal of Experimental Psychology, 79, 192-194. 
+
+Hintzman, D. L. (1974). Theoretical implications of the 
+spacing effect. In R. L. Solso (Ed.), Theories in 
+cognitive psychology: The Loyola symposium (pp. 
+77–97). Potomac, MD: Erlbaum. 
+
+Jones, H. E. (1923). Experimental studies of college 
+teaching. Archives of Psychology, 68, 1-71. 
+
+Kahana, M. J., & Howard, M. W. (2005). Spacing and lag 
+effects in free recall of pure lists. Psychonomic 
+Bulletin & Review, 12, 159-164. 
+
+Karpicke, J. D., & Roediger, H. L. III. (2007). Expanding 
+retrieval practice promotes short-term retention, but 
+equally spaced retrieval enhances long-term 
+retention. Journal of Experimental Psychology: 
+Learning, Memory, & Cognition, 33, 704-719. 
+
+Landauer, T. K., & Bjork, R. A. (1978). Optimum 
+rehearsal patterns and name learning. In M. M. 
+Gruneberg, P. E. Morris, & R. N. Sykes (Eds.), 
+Practical aspects of memory (pp. 625-632). London: 
+Academic Press.  
+
+Logan, J. M., & Balota, D. A. (2008). Expanded vs. equal 
+interval spaced retrieval practice: Exploring different 
+schedules of spacing and retention interval in 
+younger and older adults. Aging, Neuropsychology, & 
+Cognition, 15, 257-280. 
+
+Metcalfe, J., Kornell, N., & Son, L. K. (2007). A cognitive-
+science based programme to enhance study efficacy 
+in a high and low risk setting. European Journal of 
+Cognitive Psychology, 19, 743-768. 
+
+Melton, A. W. (1970). The situation with respect to the 
+spacing of repetitions and memory. Journal of Verbal 
+Learning & Verbal Behavior, 9, 596-606. 
+
+Moulton, C.-A. E., Dubrowski, A., MacRae, H., Graham, 
+B., Grober, E., & Reznick, R. (2006). Teaching 
+surgical skills: What kind of practice makes perfect? 
+A randomized, controlled trial. Annals of Surgery, 
+244, 400–409. 
+
+Nelson, T. O. (1985). Ebbinghaus’s contribution to the 
+measurement of retention: Savings during relearning. 
+Journal of Experimental Psychology: Learning, 
+Memory, & Cognition, 11, 472-479. 
+
+Pashler, H., Bain, P., Bottge, B., Graesser, A., 
+Koedinger, K., McDaniel, M., & Metcalfe, J. (2007). 
+Organizing Instruction and Study to Improve Student 
+Learning (NCER 2007-2004). Washington, DC: 
+National Center for Education Research, Institute of 
+Education Sciences, U. S. Department of Education. 
+Retrieved from http://ncer.ed.gov 
+
+Pashler, H., Rohrer, D., Cepeda, N. J., & Carpenter, S. 
+K. (2007). Enhancing learning and retarding 
+forgetting: Choices and consequences. Psychonomic 
+Bulletin & Review, 14, 187-193. 
+
+Pyc, M. A. & Rawson, K. (2007). Examining the 
+efficiency of schedules of distributed retrieval 
+practice. Memory & Cognition, 35, 1917-1927.   
+
+Rea, C. P., & Modigliani, V. (1985). The effect of 
+expanded versus massed practice on the retention of 
+multiplication facts and spelling lists. Human 
+Learning: Journal of Practical Research & 
+Applications, 4, 11–18. 
+
+Rea, C. P., & Modigliani, V. (1987). The spacing effect in 
+4- to 9-year-old children. Memory & Cognition, 15, 
+436-443. 
+
+Rohrer, D. (2009). The effects of spacing and mixing 
+practice problems. Journal for Research in 
+Mathematics Education, 40, 4-17. 
+
+http://uweb.cas.usf.edu/~drohrer/pdfs/Rohrer2009JRME.pdf�
+http://uweb.cas.usf.edu/~drohrer/pdfs/Rohrer2009JRME.pdf�
+
+
+Using Spacing     8 
+ 
+
+ 
+
+Rohrer, D., & Pashler, H. (2010). Recent research on 
+human learning challenges conventional instructional 
+strategies. Educational Researcher, 39, 406–412. 
+
+Rohrer, D., & Taylor, K. (2006). The effects of 
+overlearning and distributed practice on the retention 
+of mathematics knowledge. Applied Cognitive 
+Psychology, 20, 1209-1224. 
+
+Rohrer, D., & Taylor, K. (2007). The shuffling of 
+mathematics practice problems boosts learning. 
+Instructional Science, 35, 481–498. 
+
+Seabrook, R., Brown, G. D. A., & Solity, J. E. (2005). 
+Distributed and massed practice: From laboratory to 
+classroom. Applied Cognitive Psychology, 19, 107-
+122.  
+
+Sobel, H. S., Cepeda, N. J., & Kapler, I. V. (2011). 
+Spacing effects in real-world classroom vocabulary 
+learning. Applied Cognitive Psychology, 25, 763-767. 
+
+Taylor, K., & Rohrer, D. (2010). The effect of interleaving 
+practice. Applied Cognitive Psychology, 24, 837-848. 
+
+Tiedeman, H. R. (1948). A study in retention of 
+classroom learning. The Journal of Educational 
+Research, 41, 516-531. 
+
+Toppino, T. C. (1991). The spacing effect in young 
+children’s free recall: Support for automatic process 
+explanations. Memory & Cognition, 19, 159-167. 
+
+Toppino, T. C., & DeMesquita, M. (1984). Effects of 
+spacing repetitions on children’s memory. Journal of 
+Experimental Child Psychology, 37, 637-648. 
+
+Toppino, T. C., & DiGeorge, W. (1984). The spacing 
+effect in free recall emerges with development. 
+Memory & Cognition, 12, 118-122. 
+
+Verkoeijen, P. P. J. L., Rikers, R. M. J. P., & Özsoy, B. 
+(2008). Distributed rereading can hurt the spacing 
+effect in text memory. Applied Cognitive Psychology, 
+22, 685-695. 
+
+Willingham, D. T. (2002, Summer). Allocating student 
+study time: Massed vs. distributed practice. American 
+Educator, 37–39, 47. 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+Figure 1. Design of a typical study on the spacing effect. Participants experience two learning sessions that are separated 
+by an interval of time referred to here as the spacing gap. After another interval of time called the test delay, participants 
+are given a final test over the information that they encountered in the two learning sessions. 
+ 
+
+ 
+
+
+
+Using Spacing     9 
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 2. A mathematics spacing experiment. College students observed a tutorial on how to solve an obscure kind of 
+permutation problem before attempting 10 practice problems that were given in a single session (0-day spacing gap) or 
+spaced across two sessions separated by one week (7-day spacing gap) (for full details, see Rohrer & Taylor, 2006). A 
+test with novel problems of the same kind was given one or four weeks later. Spacing had no reliable effect on test scores 
+after a one-week delay but doubled test scores after a four-week delay.  
+
+7-day gap
+
+0-day gap
+
+5 problems 
+of one kind
+
+5 more problems 
+of the same kind
+
+10 problems of 
+the same kind
+
+7 days 
+1 or 4 wks
+
+Test
+
+Test
+
+Test Delay (weeks)
+1 4
+
+Proportion 
+    Correct
+
+0
+
+1
+
+Massed
+
+.75
+
+.70 .64
+
+.32
+
+Spaced 
+
+0-day gap
+
+7-day gap
+
+
+
+Using Spacing     10 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 3. Proportion of facts recalled in the study by Cepeda et al. (2008) as a function of spacing gap (either 0, 1, 2, 4, 7, 
+11, 14, 21, 35, 70, or 105 days) and test delay (either 7, 35, 70, or 350 days). The spacing gap that produced the highest 
+level of recall was dependent upon the test delay, such that shorter spacing gaps (e.g., one day) were more beneficial for 
+recall after a relatively short test delay (e.g., seven days), and longer spacing gaps (e.g., 21 days) were more beneficial 
+for recall after a longer test delay (e.g., 70 days). 
+
+0 
+
+0.2 
+
+0.4 
+
+0.6 
+
+0.8 
+
+1 
+
+0 20 40 60 80 100 
+
+P
+ro
+
+po
+rti
+
+on
+ o
+
+f F
+ac
+
+ts
+ R
+
+ec
+al
+
+le
+d 
+
+on
+ F
+
+in
+al
+
+ T
+es
+
+t 
+
+Spacing Gap (Days) 
+
+    7-day test delay 
+    35-day test delay 
+    70-day test delay 
+    350-day test delay 
+
+

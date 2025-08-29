@@ -1,0 +1,6 @@
+langextract
+google-generativeai
+tika
+
+
+#my_file.pdf
