@@ -1,28 +1,38 @@
-# Como usar este projeto
+# Resume Buddy
 
-## Instalação rápida
+## Project Description
 
-Clone o repositório e entre na pasta do projeto:
+Resume Buddy is a tool that leverages artificial intelligence to generate summaries from text files or notes. The application converts PDFs to `.txt`, processes the content using the Gemini model, and organizes the results into a `.md` file, making it easier to review and manage information.
+
+---
+
+## Quick Installation
+
+Clone the repository and navigate into the project folder:
 
 ```bash
 git clone github.com/BabiDoo/resume-buddy
 cd resume-buddy
 ```
 
-Crie e ative o ambiente virtual:
+---
+
+## Starting Virtual Environment
+
+Create and activate the virtual environment:
 
 ```bash
-#Criar venv
+# Create venv
 python -m venv venv
 
-# Ativar venv
+# Activate venv
 # Windows
 venv\Scripts\activate
 # Linux/Mac
 source venv/bin/activate
 ```
 
-Instale as dependências:
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -30,10 +40,10 @@ pip install -r requirements.txt
 
 ---
 
-## Configuração da API
+## 🔑 API Setup
 
-* Crie uma chave de API para usar o **Gemini**: [Obter chave](https://aistudio.google.com/app/apikey)
-* Adicione a chave no arquivo `.env` com o nome:
+* Create an API key to use **Gemini**: [Get key](https://aistudio.google.com/app/apikey)
+* Add the key to the `.env` file with the name:
 
 ```env
 LANGEXTRACT_API_KEY=your_api_key_here
@@ -41,20 +51,19 @@ LANGEXTRACT_API_KEY=your_api_key_here
 
 ---
 
-## Preparação dos arquivos
+## 📂 File Preparation
 
-* **Se você tem um arquivo PDF**:
+* **If you have a PDF file:**
 
-  1. Converta-o para `.txt`
-  2. Rode:
+  1. Convert it to `.txt` firt, running:
 
      ```bash
      py to_txt.py
      py -X utf8 run_resume_extract.py
      ```
 
-* **Se o arquivo já é `.txt`**:
-  Basta rodar:
+* **If the file is already `.txt`:**
+  Just run:
 
   ```bash
   py -X utf8 run_resume_extract.py
@@ -62,13 +71,13 @@ LANGEXTRACT_API_KEY=your_api_key_here
 
 ---
 
-## Execução
+## Execution
 
-* Aguarde os resultados no terminal (pode levar até **10 minutos**, dependendo do arquivo).
-* Os dados gerados serão salvos em um arquivo `.md` contendo o **resumo do arquivo `.txt`**.
+* Wait for the results in the terminal (it may take up to **10 minutes**, depending on the file).
+* The generated data will be saved in a `.md` file containing the **summary of the `.txt` file**.
 
 ---
 
-## Ideia do Projeto
+## 💡 Project Idea
 
-O objetivo principal é que o **agente ajude a criar resumos de anotações e arquivos**, facilitando a organização e revisão dos conteúdos.
+The goal is for the agent to assist in creating summaries of notes and files by extracting information of the content for you and making it easier to organize and review content.
